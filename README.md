@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=32&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Hi!+I%27M+Anand+Prajapati;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=32&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi!+I%27M+Anand+Prajapati;Welcome+to+my+profile)
 
 ## Hi there 👋
 
