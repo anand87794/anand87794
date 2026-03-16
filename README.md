@@ -66,7 +66,7 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 
 ## 🛠 Knowledge & Skills
 
-### 💻 Programming & Web
+#### 💻 Programming & Web
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,7 +75,7 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔐 Security & Pentesting Tools
+#### 🔐 Security & Pentesting Tools
 ![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite%20Pro-FF6C37?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
 ![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge)
@@ -87,12 +87,12 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 ![DirBuster](https://img.shields.io/badge/DirBuster-blue?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-purple?style=for-the-badge)
 
-### 🖥 Platforms & Environment
+#### 🖥 Platforms & Environment
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00ADEF?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🧰 Development & Virtualization
+#### 🧰 Development & Virtualization
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
