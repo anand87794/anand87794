@@ -8,7 +8,6 @@ I spend my time exploring web applications, analyzing attack surfaces, and ident
 
 My areas of interest include **Web Security, API Pentesting, Reconnaissance Techniques, and Vulnerability Discovery**. I enjoy understanding how systems can be attacked and how they can be secured against real-world threats.
 
-I document my research, notes, and methodologies on GitHub as part of my continuous journey in cybersecurity.
 <!--
 **anand87794/anand87794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
