@@ -96,7 +96,7 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anti Gravity](https://img.shields.io/badge/Anti--Gravity-ZAP%20Addon-blue?style=for-the-badge)
+![Anti Gravity](https://img.shields.io/badge/Anti--Gravity-ZAP?style=for-the-badge)
 <!--
 **anand87794/anand87794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
