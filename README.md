@@ -67,32 +67,33 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 ## 🛠 Knowledge & Skills
 
 #### 💻 Programming & Web
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 #### 🔐 Security & Pentesting Tools
-![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite%20Pro-FF6C37?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-red?style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-orange?style=for-the-badge)
-![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=for-the-badge)
-![DirBuster](https://img.shields.io/badge/DirBuster-blue?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-purple?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20Pro-FF6F00?style=plastic)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=plastic)
+![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=plastic)
+![Hydra](https://img.shields.io/badge/Hydra-2E8B57?style=plastic)
+![Nikto](https://img.shields.io/badge/Nikto-DC143C?style=plastic)
+![DirBuster](https://img.shields.io/badge/DirBuster-800000?style=plastic)
+![ffuf](https://img.shields.io/badge/ffuf-000000?style=plastic)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic)
 
 #### 🖥 Platforms & Environment
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00ADEF?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00FF00?style=plastic&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 
 #### 🧰 Development & Virtualization
