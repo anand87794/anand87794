@@ -63,6 +63,26 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 </table>
 
 </details>
+
+## 🛠 Knowledge & Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-red?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-orange?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00ADEF?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!--
 **anand87794/anand87794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
