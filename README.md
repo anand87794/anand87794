@@ -1,6 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=32&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi!+I%27M+Anand+Prajapati;Welcome+to+my+profile)
 ## Hi there 👋
-<p>
+
+
+<table>
+<tr>
+<td width="65%">
+
 I'm **Anand Prajapati** — an Ethical Hacker, Bug Bounty Hunter, and Security Researcher with a strong focus on **Web Application Penetration Testing**.
 
 I spend my time exploring web applications, analyzing attack surfaces, and identifying security vulnerabilities through bug bounty programs and hands-on security research.
@@ -9,7 +14,16 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 
 I document my research, notes, and methodologies on GitHub as part of my continuous journey in cybersecurity.
 
-</p>
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.tenor.com/RcvWTgi9qJ8AAAAi/1.gif" width="250"/>
+
+</td>
+
+</tr>
+</table>
 
 
 <!--
