@@ -39,6 +39,37 @@ I document my research, notes, and methodologies on GitHub as part of my continu
 - 📚 Learning Platforms: TryHackMe | HackTheBox | CTFs
 - 📂 Sharing Knowledge: Posting cybersecurity notes & methodologies on GitHub
 
+
+
+
+### 📍 Present Status
+
+<table>
+<tr>
+<td width="65%">
+
+- 🔍 Practicing **Web Application Penetration Testing** and exploring real-world vulnerabilities through bug bounty platforms  
+
+- 🧪 Learning and researching **Mobile Application Security and Web3/Blockchain exploitation techniques**
+
+- 🧠 Studying **Reverse Engineering and RAT malware analysis** to understand how real-world attacks work   
+
+- 🚀 Continuously improving **communication and technical reporting skills** for professional vulnerability reports  
+
+- 📚 Documenting my **learning, notes, and methodologies on GitHub**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+</td>
+
+</tr>
+</table>
+
+</details>
 <!--
 **anand87794/anand87794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
