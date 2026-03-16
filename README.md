@@ -7,11 +7,13 @@
 
 <p>
 <sub>
+  
 I'm **Anand Prajapati** — an Ethical Hacker, Bug Bounty Hunter, and Security Researcher with a strong focus on **Web Application Penetration Testing** and real-world vulnerability discovery.
 
 I spend most of my time exploring web applications, analyzing attack surfaces, and identifying security weaknesses through bug bounty programs, practical labs, and hands-on security research. I enjoy understanding how modern web systems work internally and how attackers can exploit them.
 
 My areas of interest include **Web Security, API Pentesting, Reconnaissance Techniques, and Vulnerability Discovery**. I am particularly interested in discovering logic flaws, authentication issues, and access control vulnerabilities that can impact real applications.
+
 </sub>
 </p>
 
