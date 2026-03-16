@@ -34,7 +34,6 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 
 </details>
 
-______________________________________________________________________________________________________________________________________________________
 
 ### 📍 Present Status
 
