@@ -66,23 +66,37 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 
 ## 🛠 Knowledge & Skills
 
+### 💻 Programming & Web
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](style=for-the-badge&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+### 🔐 Security & Pentesting Tools
+![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite%20Pro-FF6C37?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![SQLmap](https://img.shields.io/badge/SQLmap-red?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-orange?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=for-the-badge)
+![DirBuster](https://img.shields.io/badge/DirBuster-blue?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-purple?style=for-the-badge)
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### 🖥 Platforms & Environment
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00ADEF?style=for-the-badge&logo=linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00ADEF?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧰 Development & Virtualization
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anti Gravity](https://img.shields.io/badge/Anti--Gravity-ZAP%20Addon-blue?style=for-the-badge)
 <!--
 **anand87794/anand87794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
