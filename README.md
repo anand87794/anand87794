@@ -55,7 +55,7 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media1.tenor.com/m/Nf9XI1X9xAUAAAAC/hacker.gif" width="260"/>
 
 </td>
 
