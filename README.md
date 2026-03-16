@@ -9,8 +9,8 @@ I'm **Anand Prajapati** — an Ethical Hacker, Bug Bounty Hunter, and Security R
 I spend my time exploring web applications, analyzing attack surfaces, and identifying security vulnerabilities through bug bounty programs and hands-on security research.
 
 My areas of interest include **Web Security, API Pentesting, Reconnaissance Techniques, and Vulnerability Discovery**.
-
 I document my research, notes, and methodologies on GitHub as part of my continuous journey in cybersecurity.
+
 <details>
 <summary>👉 More About Me</summary>
 
