@@ -64,6 +64,15 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 
 </details>
 
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-prajapati-7a265a369/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anand114bug)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anandprajapati_________/)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/Anandethicalhacker)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anand114bug@gmail.com)
+
 ## 🛠 Knowledge & Skills
 
 #### 💻 Programming & Web
