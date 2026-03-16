@@ -13,9 +13,6 @@ I spend most of my time exploring web applications, analyzing attack surfaces, a
 
 My areas of interest include **Web Security, API Pentesting, Reconnaissance Techniques, and Vulnerability Discovery**. I am particularly interested in discovering logic flaws, authentication issues, and access control vulnerabilities that can impact real applications.
 
-Alongside bug hunting, I continuously practice security testing methodologies, improve my reconnaissance workflows, and study different exploitation techniques used in real-world attacks.
-
-I also document my **learning journey, research notes, and security methodologies on GitHub**, where I share knowledge and track my progress in cybersecurity.
 
 </p>
 
