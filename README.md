@@ -39,7 +39,7 @@ I document my research, notes, and methodologies on GitHub as part of my continu
 - 📚 Learning Platforms: TryHackMe | HackTheBox | CTFs
 - 📂 Sharing Knowledge: Posting cybersecurity notes & methodologies on GitHub
 
-
+</details>
 
 
 ### 📍 Present Status
