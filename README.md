@@ -25,6 +25,19 @@ I document my research, notes, and methodologies on GitHub as part of my continu
 </tr>
 </table>
 
+<details>
+<summary>👉 More About Me</summary>
+
+
+- 👤 Name: Anand Prajapati
+- 🌍 From: India
+- 💻 Role: Ethical Hacker | Bug Bounty Hunter | Security Researcher | Penetration Tester
+- 🎯 Focus: Web Application Security & API Pentesting
+- 🔎 Interests: Bug Bounty Hunting, Reconnaissance, Vulnerability Research
+- 🧠 Currently Learning: Advanced Web Exploitation & API Security
+- 🛠 Tools: Burp Suite, Nmap, SQLmap, ffuf, Nikto
+- 📚 Learning Platforms: TryHackMe | HackTheBox | CTFs
+- 📂 Sharing Knowledge: Posting cybersecurity notes & methodologies on GitHub
 
 <!--
 **anand87794/anand87794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
