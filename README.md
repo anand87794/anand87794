@@ -22,15 +22,15 @@ My areas of interest include **Web Security, API Pentesting, Reconnaissance Tech
 <summary>👉 More About Me</summary>
 
 
-- 👤 Name: Anand Prajapati
-- 🌍 From: India
-- 💻 Role: Ethical Hacker | Bug Bounty Hunter | Security Researcher | Penetration Tester
-- 🎯 Focus: Web Application Security & API Pentesting
-- 🔎 Interests: Bug Bounty Hunting, Reconnaissance, Vulnerability Research
-- 🧠 Currently Learning: Advanced Web Exploitation & API Security
-- 🛠 Tools: Burp Suite, Nmap, SQLmap, ffuf, Nikto
-- 📚 Learning Platforms: TryHackMe | HackTheBox | CTFs
-- 📂 Sharing Knowledge: Posting cybersecurity notes & methodologies on GitHub
+- 👤 **Name**: Anand Prajapati
+- 🌍 **From**: India
+- 💻 **Role**: Ethical Hacker | Bug Bounty Hunter | Security Researcher | Penetration Tester
+- 🎯 **Focus**: Web Application Security & API Pentesting
+- 🔎 **Interests**: Bug Bounty Hunting, Reconnaissance, Vulnerability Research
+- 🧠 **Currently Learning**: Advanced Web Exploitation & API Security
+- 🛠 **Tools**: Burp Suite, Nmap, SQLmap, ffuf, Nikto
+- 📚 **Learning Platforms**: TryHackMe | HackTheBox | CTFs
+- 📂 **Sharing Knowledge**: Posting cybersecurity notes & methodologies on GitHub
 
 </details>
 
