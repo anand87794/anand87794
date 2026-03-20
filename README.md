@@ -5,7 +5,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=60&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=Hi!+I%27M+Anand+Prajapati;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=55&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=Hi!+I%27M+Anand+Prajapati;Welcome+to+my+profile)
 
 
 <img align="right" src="https://media.tenor.com/RcvWTgi9qJ8AAAAi/1.gif" width="120"/>
