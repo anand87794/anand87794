@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
   <img src="hacker.gif" width="700">
 </p>
 
