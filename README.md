@@ -6,8 +6,9 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=50&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=Hi!+I%27M+Anand+Prajapati;Welcome+To+My+Profile)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=50&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=Hi!+I%27M+Anand+Prajapati" alt="Typing SVG">
+</p>
 
 <img align="right" src="https://media.tenor.com/RcvWTgi9qJ8AAAAi/1.gif" width="120"/>
 
